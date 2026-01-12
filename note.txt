@@ -1,4 +1,2 @@
 hi
-this is harish
-learning devops
- 
+this is harish 
